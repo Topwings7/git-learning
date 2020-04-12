@@ -37,6 +37,7 @@ $git remote add origin 깃주소 +폴더명 +선택사항<br>
 $git remote -v 연동되었는지 확인<br>
 $git push -u origin master 원격저장소에 파일올리기 <br>
 $git pull origin master 파일 가져오기<br>
+$git rm -r --cached 파일명 or * 파일 삭제 <br>
 8.팀원일시 플레이<br>
 $git clone 깃주소  경로설정을 잘해야한다 깃에있는 파일복사<br>
 $git config user.name , $git config user.email 아이디,이메일 설정<br>
