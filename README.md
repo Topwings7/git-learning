@@ -52,4 +52,5 @@ $git commit 다시 커밋해주고<br>
 $git push 원격저장소로 밀어 넣는다<br>
 한줄요약<br>
 clone >> 작업 >> fetch >> merge >> commit >> push 끝!<br>
-
+고급 스킬<br>
+https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html<br>
